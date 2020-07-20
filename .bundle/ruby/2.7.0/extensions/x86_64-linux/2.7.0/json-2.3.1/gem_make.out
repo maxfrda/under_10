@@ -1,0 +1,13 @@
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+/home/max/.rbenv/versions/2.7.1/bin/ruby -I /home/max/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200719-11723-dlcgd6.rb extconf.rb
+creating Makefile
+
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" install

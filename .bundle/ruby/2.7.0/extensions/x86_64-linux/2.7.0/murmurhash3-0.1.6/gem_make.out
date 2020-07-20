@@ -1,0 +1,15 @@
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+/usr/share/rvm/rubies/ruby-2.7.1/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20200716-14789-1u0l8ql.rb extconf.rb
+creating Makefile
+
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+make "DESTDIR=" clean
+
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+make "DESTDIR="
+compiling murmur3.c
+linking shared-object native.so
+
+current directory: /home/max/code/maxfrda/prices-scraping/under_10/.bundle/ruby/2.7.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+make "DESTDIR=" install
+/usr/bin/install -m 0755 native.so ./.gem.20200716-14789-2lfdfw
